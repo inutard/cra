@@ -1,10 +1,10 @@
 Coho-Reach: Coho Reachability Analysis Tool
+------------------------------------------
 
 FAQ: 
-=====================
+====
 	1. How to install Coho-Reach
    		`sh install.sh`
-	
 	2. How to use Coho-Reach, small example
    		```
 		cra_open;
@@ -19,12 +19,10 @@ FAQ:
    		ph_display(fwdPh);
    		cra_close;
 		```   
-	
 	3. Any more examples ?
    		```
 		./example/
    		./Projectagon/test/
 		```
-	
 	4. More documents
    		`./doc`
